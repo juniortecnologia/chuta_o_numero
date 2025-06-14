@@ -6,4 +6,4 @@
 
 ## Tecnologias
 
-<h3>HTML, CSS e JS</h3>
+<h3>**HTML, CSS e JS**</h3>
